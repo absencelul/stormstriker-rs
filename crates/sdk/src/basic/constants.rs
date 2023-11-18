@@ -1,0 +1,1 @@
+pub(crate) const NUM_ELEMENTS_PER_CHUNK: i32 = 64 * 1024;
